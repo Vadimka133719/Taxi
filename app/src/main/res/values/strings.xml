@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Такси</string>
+    <string name="driverBtn">Я Водитель</string>
+    <string name="CustomerBtn">Я Клиент</string>
+    <string name="email">abc@mail.ru</string>
+    <string name="password">Пароль</string>
+    <string name="signIn">Войти</string>
+    <string name="signUp">Регистрация</string>
+    <string name="driverStatus">Вход для водителей</string>
+    <string name="createQuestion">Нет аккаунта</string>
+    <string name="title_activity_drivers_map">DriversMapActivity</string>
+</resources>
